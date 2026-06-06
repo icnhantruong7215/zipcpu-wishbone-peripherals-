@@ -1,0 +1,11 @@
+rtl/spi.sv
+rtl/spi_slave_echo.sv
+rtl/sfifo.v
+rtl/rxuart.v
+rtl/txuart.v
+rtl/wb_spi_master.sv
+rtl/wb_uart_fifo.sv
+rtl/wb_intercon.sv
+rtl/wb_master_stub.sv
+rtl/soc_stub_top.sv
+sim/tb_soc_stub_top.sv
