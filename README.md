@@ -1,11 +1,5 @@
-# zipcpu_spi_wb_verilator_v14_spi_to_uart
 
-Bản này là SoC stub dùng Wishbone Master Stub để kiểm tra UART/SPI trước khi tích hợp ZipCPU thật.
 
-Thêm so với v13:
-- Có SPI Slave Echo.
-- Có test mới: SPI -> Wishbone -> UART.
-- Log terminal được giữ đơn giản hơn để dễ chụp báo cáo.
 
 ## Chạy mô phỏng
 
